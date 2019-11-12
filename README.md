@@ -17,7 +17,7 @@ Welcome to Widgets LLC! You have just joined the team and your first task is to 
 
 ---
 
-***To get started, review the architecture diagram below and proceed to the [Lab](https://github.com/securityroadshow/protecting-workloads-workshop/blob/master/docs/workshop/perimeter-layer/assess.md).***
+***To get started, review the architecture diagram below and proceed to the [Lab](https://github.com/awssecurityevents/Protecting_workloads_on_AWS_from_the_instance_to_the_edge/blob/master/docs/workshop/perimeter-layer/assess.md).***
 
 ## Workshop Architecture
 
